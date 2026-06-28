@@ -1,0 +1,10 @@
+Name: Alice	 Age: 16
+Math Grade: 85
+Science Grade: 90
+English Grade: 88
+Average : 87.67
+Name: Bob	 Age: 17
+Math Grade: 92
+Science Grade: 88
+English Grade: 90
+Average : 90.00
